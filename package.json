@@ -1,7 +1,7 @@
 {
   "name": "graphql-node",
   "version": "1.0.0",
-  "description": "A sample GrahpQL server with node interface query",
+  "description": "A sample GrahpQL server with node interface query.",
   "main": "index.js",
   "author": "Erwin Errol Calanuga",
   "license": "ISC",
